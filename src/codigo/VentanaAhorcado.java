@@ -290,6 +290,7 @@ public class VentanaAhorcado extends javax.swing.JFrame {
         });
 
         jButton27.setFont(new java.awt.Font("Tahoma", 0, 24)); // NOI18N
+        jButton27.setText("tyu");
         jButton27.addMouseListener(new java.awt.event.MouseAdapter() {
             public void mousePressed(java.awt.event.MouseEvent evt) {
                 jButton27MousePressed(evt);
