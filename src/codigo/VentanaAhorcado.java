@@ -25,6 +25,10 @@ public class VentanaAhorcado extends javax.swing.JFrame {
         
         boton.setEnabled(false);
     }
+     private void chequeaLetra(String letra){
+        
+        
+    }
 
     /**
      * This method is called from within the constructor to initialize the form.
